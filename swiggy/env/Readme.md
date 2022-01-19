@@ -2,6 +2,6 @@
 
 This file contains information to run my project
 
-### steps
+### Requirements
 Python 
 version = 3.8.10
